@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://61031a0f695cc77781cbd9bd--trusting-curie-b89cf5.netlify.app">
       Demo
     </a>
     <span> | </span>
