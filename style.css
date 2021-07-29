@@ -1,0 +1,177 @@
+body{
+	position: absolute;
+width: 1440px;
+height: 1080px;
+left: 0px;
+top: 0px;
+background: #181719;
+}
+
+.btn{
+  position: absolute;
+width: 86px;
+height: 16px;
+left: 85px;
+top: 50px;
+font-family: Crismon Pro;
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 16px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.btn{
+  position: absolute;
+width: 120px;
+height: 32px;
+left: 77px;
+top: 42px;
+background: black;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+}
+
+.image img{
+	position: absolute;
+width: 737px;
+height: 555px;
+left: 626px;
+top: 245px;
+}
+
+h3{
+	position: absolute;
+width: 365px;
+height: 61px;
+left: 77px;
+top: 381px;
+
+font-family: Lora;
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+}
+
+p{
+	position: absolute;
+width: 410px;
+height: 145px;
+left: 77px;
+top: 482px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+
+.btn1{
+	position: absolute;
+width: 103px;
+height: 22px;
+left: 77px;
+top: 675px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+background: #181719;
+border: 1px solid #181719;
+}
+
+
+p0{
+	position: absolute;
+width: 24px;
+height: 24px;
+left: 191px;
+top: 675px;
+color: #FFFFFF;
+}
+
+.boxed{
+	position: absolute;
+width: 410px;
+height: 189px;
+left: 921px;
+top: 722px;
+background: #181719;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.boxed img{
+	pposition: absolute;
+width: 50px;
+height: 50px;
+left: 952px;
+top: 740px;
+background: #C4C4C4;
+border-radius: 37px;
+}
+
+p1{
+	position: absolute;
+width: 95px;
+height: 17px;
+left: 1021px;
+top: 745px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+color: #FFFFFF;
+}
+
+p2{
+	position: absolute;
+width: 102px;
+height: 15px;
+left: 1021px;
+top: 770px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+color: #828282;
+}
+
+p3{
+	position: absolute;
+width: 287px;
+height: 62px;
+left: 947px;
+top: 815px;
+font-family: Lora;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 31px;
+color: #FFFFFF;
+}
+
+footer{
+	position: absolute;
+width: 287px;
+height: 17px;
+left: 577px;
+top: 1039px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #A9A9A9;
+}
+ 
+ 
